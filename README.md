@@ -6,9 +6,7 @@
 ### **Dashboard**
 
 ![Overview](Overview.png)
-
-![Overview2](Overview2.png)
-![price_Analysis](price_Analysis.png)
+![Site Performance](Site Performance.png)
 ![Courses_Details](Courses_Details.png)
 
 ------------------
