@@ -1,5 +1,17 @@
 
 # 🛒 Retail Performance & Inventory Analytics Dashboard
+---
+## 🖥️ Dashboard Preview
+
+### **Dashboard**
+
+![Overview](Overview.png)
+
+![Overview2](Overview2.png)
+![price_Analysis](price_Analysis.png)
+![Courses_Details](Courses_Details.png)
+
+------------------
 
 ## 📌 Project Description
 
