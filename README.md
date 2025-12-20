@@ -6,8 +6,11 @@
 ### **Dashboard**
 
 ![Overview](Overview.png)
-![Site Performance](Site Performance.png)
-![Courses_Details](Courses_Details.png)
+![Sales_Performance](Sales_Performance.png)
+![Product_Performance](Product_Performance.png)
+![Site_Performance](Site_Performance.png)
+![Customer_Insights](Customer_Insights.png)
+![Inventory_&_Operation](Inventory_&_Operation.png)
 
 ------------------
 
