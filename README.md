@@ -134,13 +134,3 @@ Designed to support supply chain and inventory decisions:
 
 * 🔗 LinkedIn: *[www.linkedin.com/in/essam-ali-07a89a383]*
 * 💼 Portfolio: *[https://essam1212.github.io/portfolio/]*
-
----
-
-لو حابب:
-
-* نخليه **أقصر شوية**
-* أو نخليه **تقيل قوي للـ Data Analyst / Power BI Job**
-* أو نكتبه **بطريقة تناسب ATS وHR**
-
-قولي واظبطهولك فورًا 💪
